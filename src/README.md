@@ -1,4 +1,3 @@
-# Introduction
 
 Poetry writing has always been a medium of artistic expression. It allows individuals to convey their innermost thoughts and emotions in a way that touches the hearts of readers. However, creating truly innovative and inspiring poetry can be challenging, requiring significant creativity, skill, and practice.
 

@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-============================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing. In this chapter, we will explore the available tools and technologies for AI-driven poetry writing.
 

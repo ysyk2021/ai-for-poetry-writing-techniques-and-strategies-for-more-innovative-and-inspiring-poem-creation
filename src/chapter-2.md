@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Poetry Writing
-==============================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing. In this chapter, we will explore the available tools and technologies for AI-driven poetry writing and how to select the right tools for your needs.
 

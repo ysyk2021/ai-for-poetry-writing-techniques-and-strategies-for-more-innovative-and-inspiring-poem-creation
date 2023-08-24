@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the many ways in which artificial intelligence (AI) can enhance the creative process of poetry writing. We have discussed various techniques and strategies for using AI-powered tools to generate innovative and inspiring poetry, while also managing ethics and bias risks. In this chapter, we will summarize the key takeaways from this book and provide encouragement for readers to implement AI-driven poetry writing techniques and strategies.
 

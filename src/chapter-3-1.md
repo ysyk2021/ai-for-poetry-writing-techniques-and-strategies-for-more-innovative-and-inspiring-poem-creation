@@ -1,5 +1,3 @@
-Using AI for Creative Idea Generation and Inspiration
-=============================================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing by providing personalized suggestions for creative idea generation and inspiration. In this chapter, we will explore how AI can be used to generate new ideas and inspire innovative and inspiring poems.
 

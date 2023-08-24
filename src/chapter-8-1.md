@@ -1,5 +1,3 @@
-Emerging Trends in AI for Creative Writing and Poetry
-===============================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the creative writing process, including poetry writing. In this chapter, we will explore emerging trends in AI for creative writing and poetry, and their potential impact on the future of poetry writing.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 In conclusion, emerging trends in AI for creative writing and poetry offer exciting opportunities for the future of poetry writing. As NLP technology, GANs, XAI, and collaborative writing continue to evolve, AI-powered tools for poetry writing will become more sophisticated and effective. Furthermore, AI can inspire new and innovative approaches to poetry writing, encouraging creative exploration and experimentation. The future of poetry writing with AI is full of potential and possibilities.
-
 

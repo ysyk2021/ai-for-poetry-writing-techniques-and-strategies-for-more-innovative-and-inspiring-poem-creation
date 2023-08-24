@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Poetry Writing Practices
-=============================================================================================================================
 
 As with any use of artificial intelligence (AI), it is important to consider ethics and bias when using AI-enabled tools for poetry writing. In this chapter, we will explore the importance of ethical and unbiased poetry writing practices.
 

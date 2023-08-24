@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Poetry Writing Practices
-============================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing. In this chapter, we will explore the benefits of incorporating AI into poetry writing practices.
 

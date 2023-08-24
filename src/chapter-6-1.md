@@ -1,5 +1,3 @@
-AI-Driven Poetry Editing and Publishing Assistance
-=================================================================================================================
 
 Artificial Intelligence (AI) has the potential to streamline the process of editing and publishing poetry by providing automated assistance for proofreading, formatting, and other tasks. In this chapter, we will explore how AI can assist in the editing and publishing of poetry.
 

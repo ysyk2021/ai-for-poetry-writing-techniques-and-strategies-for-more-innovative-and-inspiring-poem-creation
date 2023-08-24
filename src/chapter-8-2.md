@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-=============================================================================================================
 
 As artificial intelligence (AI) continues to evolve, the potential for its use in poetry writing is only increasing. In this chapter, we will explore some emerging trends and opportunities for AI-enabled poetry writing that are likely to shape the future of the field.
 

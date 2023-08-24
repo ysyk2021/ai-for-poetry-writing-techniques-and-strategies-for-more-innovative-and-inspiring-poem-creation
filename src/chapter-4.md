@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Imagery and Language Use with AI
-=====================================================
 
 Artificial Intelligence (AI) has the potential to enhance the imagery and language use in poetry by providing automated assistance for metaphor and rhyme generation. In this chapter, we will explore how AI can be used to enhance the imagery and language use in poetry.
 

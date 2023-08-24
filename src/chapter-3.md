@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Creative Idea Generation and Inspiration
-======================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing. In this chapter, we will explore how to implement AI in creative idea generation and inspiration.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Poetry Writing
-================================================================
 
 As artificial intelligence (AI) becomes more prevalent in the creative writing process, including poetry writing, it is important to prioritize ethical and unbiased practices. In this chapter, we will discuss the importance of ethical and unbiased poetry writing practices and provide strategies for mitigating risks and ensuring compliance.
 

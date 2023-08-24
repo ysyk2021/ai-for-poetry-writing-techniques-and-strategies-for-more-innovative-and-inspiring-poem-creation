@@ -1,5 +1,3 @@
-Automated Proofreading and Formatting using AI
-=============================================================================================================
 
 In addition to generating new poetry, artificial intelligence (AI) can also assist in the editing and publishing process. In this chapter, we will explore how AI-powered tools can streamline the editing and publishing process for poetry by automating proofreading and formatting tasks.
 

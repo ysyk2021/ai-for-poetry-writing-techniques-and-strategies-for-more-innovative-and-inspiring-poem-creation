@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-==========================================================================================================
 
 As with any technology, the use of artificial intelligence (AI) in poetry writing can pose ethical and bias risks. In this chapter, we will explore ways to mitigate these risks and ensure compliance.
 

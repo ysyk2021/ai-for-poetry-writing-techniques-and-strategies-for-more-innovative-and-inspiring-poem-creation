@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Enabled Poetry Writing
-========================================================================
 
 Artificial intelligence (AI) is constantly evolving, and its potential to revolutionize the creative writing process, including poetry writing, is growing rapidly. In this chapter, we will explore emerging trends in AI for creative writing and poetry, and the new opportunities that they can unlock.
 

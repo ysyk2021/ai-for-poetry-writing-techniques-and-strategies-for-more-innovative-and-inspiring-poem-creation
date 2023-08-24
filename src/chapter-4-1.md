@@ -1,5 +1,3 @@
-AI-Powered Imagery and Language Assistance for Poetry Writing
-====================================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the imagery and language use in poetry by providing personalized feedback and revision suggestions. In this chapter, we will explore how AI can be used to provide imagery and language assistance for poetry writing.
 

@@ -1,5 +1,3 @@
-Personalized Feedback and Revision Suggestions using AI
-===============================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the poetic structure and form of poems by providing personalized feedback and revision suggestions. In this chapter, we will explore how AI can improve poetic structure and form.
 

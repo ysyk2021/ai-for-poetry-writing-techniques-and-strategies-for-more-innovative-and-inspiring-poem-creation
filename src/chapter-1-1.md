@@ -1,5 +1,3 @@
-Understanding the Role of AI in Poetry Writing
-================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing. In this chapter, we will explore the role of AI in poetry writing.
 

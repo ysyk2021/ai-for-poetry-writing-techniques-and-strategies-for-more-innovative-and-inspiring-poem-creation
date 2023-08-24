@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Poem Style and Theme Selection
-===============================================================================================================================================
 
 Artificial Intelligence (AI) has the potential to enhance the creative process of poetry writing by providing predictive analytics and forecasting for poem style and theme selection. In this chapter, we will explore how AI can be used to generate creative ideas and inspire new poems.
 

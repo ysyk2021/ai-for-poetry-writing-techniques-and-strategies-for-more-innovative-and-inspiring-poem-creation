@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Poetry Writing Needs
-=======================================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance the creative process of poetry writing. In this chapter, we will explore how to select the right AI-powered tools for your poetry writing needs.
 
