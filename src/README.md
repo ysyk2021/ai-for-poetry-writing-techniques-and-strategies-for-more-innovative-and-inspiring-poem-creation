@@ -10,3 +10,7 @@ This book is intended for poets looking to improve their craft, as well as profe
 Through the use of case studies and practical examples, this book demonstrates how AI can be leveraged to create more dynamic and impactful poems. Whether you are an experienced poet or just starting out, "AI for Poetry Writing" is an essential guide for anyone looking to explore the potential of AI in the world of poetry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
