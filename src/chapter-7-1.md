@@ -1,5 +1,4 @@
-Chapter: Importance of Ethical and Unbiased Poetry Writing Practices
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of ethical and unbiased poetry writing practices in the context of AI-driven techniques and strategies. As poets incorporate artificial intelligence into their creative process, it becomes crucial to be mindful of the ethical considerations and strive for unbiased representation, fostering inclusivity, and preserving the integrity of poetic expression.
 

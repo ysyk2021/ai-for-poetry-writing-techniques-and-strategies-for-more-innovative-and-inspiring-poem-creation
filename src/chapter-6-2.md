@@ -1,5 +1,4 @@
-Chapter: Automated Proofreading and Formatting using AI
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the application of Artificial Intelligence (AI) in automated proofreading and formatting for more innovative and inspiring poem creation. With the assistance of AI technologies, poets can enhance their creative process by ensuring grammatical accuracy, improving readability, and exploring various formatting options.
 

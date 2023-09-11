@@ -1,5 +1,4 @@
-Chapter: AI-Driven Poetic Structure and Form Improvement Techniques
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting possibilities of AI-driven techniques for improving poetic structure and form. By leveraging machine learning algorithms and natural language processing capabilities, poets can receive valuable insights and suggestions to enhance the structural elements of their poems, experiment with different forms, and elevate their overall artistic expression.
 

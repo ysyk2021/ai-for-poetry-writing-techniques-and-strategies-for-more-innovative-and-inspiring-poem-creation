@@ -1,5 +1,4 @@
-Chapter: Overview of Available Tools and Technologies
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the available tools and technologies that can be used in conjunction with Artificial Intelligence (AI) for more innovative and inspiring poem creation. These tools and technologies empower poets to leverage AI-driven approaches and explore new avenues of creativity, enhancing their writing process and expanding the possibilities for poetic expression.
 

@@ -1,5 +1,4 @@
-Chapter: Automated Metaphor and Rhyme Generation using AI
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the application of Artificial Intelligence (AI) in automated metaphor and rhyme generation for more innovative and inspiring poem creation. With the assistance of AI technologies, poets can access a vast range of metaphorical expressions, explore unique rhyming patterns, and elevate their poetry to new creative heights.
 

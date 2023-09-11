@@ -1,5 +1,4 @@
-Chapter: Predictive Analytics and Forecasting for Poem Style and Theme Selection
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the fascinating realm of predictive analytics and forecasting for poem style and theme selection. By harnessing the power of machine learning algorithms and data analysis techniques, poets can gain insights into patterns and trends, allowing them to make informed decisions about poem styles and themes that resonate with their creative vision.
 

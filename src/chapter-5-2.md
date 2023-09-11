@@ -1,5 +1,4 @@
-Chapter: Personalized Feedback and Revision Suggestions Using AI
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the realm of personalized feedback and revision suggestions using AI in the context of poetry writing. By leveraging machine learning algorithms and natural language processing techniques, poets can receive valuable insights and suggestions for enhancing their poems, refining their craft, and elevating their creative expression.
 

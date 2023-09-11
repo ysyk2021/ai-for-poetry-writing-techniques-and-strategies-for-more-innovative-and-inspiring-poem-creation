@@ -1,5 +1,4 @@
-Chapter: Selecting the Right Tools for Your Poetry Writing Needs
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the process of selecting the right tools for your poetry writing needs in the context of AI-driven techniques and strategies. With a plethora of tools available, it is essential to understand your specific requirements, preferences, and goals to choose the most suitable resources for enhancing your poem creation process.
 

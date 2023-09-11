@@ -1,5 +1,4 @@
-Chapter: AI-Powered Imagery and Language Assistance for Poetry Writing
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the utilization of Artificial Intelligence (AI) for imagery and language assistance in poetry writing. By harnessing the power of AI technologies, poets can enhance their creative process by accessing a vast array of visual and linguistic resources, generating unique metaphors, and exploring new avenues of expression.
 

@@ -1,5 +1,4 @@
-Chapter: Unlocking New Opportunities with AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting possibilities that AI unlocks for poets in their pursuit of innovative and inspiring poem creation. By harnessing the power of machine learning and AI techniques, poets can access new tools, perspectives, and creative opportunities that push the boundaries of traditional poetry writing.
 

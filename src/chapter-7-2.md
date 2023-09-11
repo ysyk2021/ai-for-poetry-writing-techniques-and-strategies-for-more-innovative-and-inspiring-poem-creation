@@ -1,5 +1,4 @@
-Chapter: Mitigating Risks and Ensuring Compliance
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of mitigating risks and ensuring compliance when utilizing AI for poetry writing. As poets embrace machine learning techniques and strategies, it becomes vital to address potential risks such as data privacy, algorithmic biases, and legal considerations. By adopting proper measures, poets can navigate these challenges responsibly while safeguarding individual rights and promoting ethical practices.
 

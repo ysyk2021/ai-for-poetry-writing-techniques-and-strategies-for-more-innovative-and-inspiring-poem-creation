@@ -1,5 +1,4 @@
-Chapter: Emerging Trends in AI for Creative Writing and Poetry
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends in AI for creative writing and poetry. As technology continues to advance, AI is constantly evolving, presenting poets with exciting new possibilities for innovation, inspiration, and collaboration. By staying informed about these emerging trends, poets can harness the full potential of AI to create more innovative and inspiring poetry.
 

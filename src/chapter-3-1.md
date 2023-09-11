@@ -1,5 +1,4 @@
-Chapter: Using AI for Creative Idea Generation and Inspiration
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting realm of using AI for creative idea generation and inspiration in poetry writing. By harnessing the power of machine learning algorithms and natural language processing, poets can leverage AI tools to spark new ideas, explore unconventional concepts, and find inspiration that enhances their poetic craftsmanship.
 
